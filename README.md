@@ -101,7 +101,7 @@ Make sure you have Node.js and npm installed on your machine. You can download N
 - URL: https://syoft.dev/Api/user_registeration/api/user_registeration
 - Method: POST
 - Payload:
-  ```bash{
+  {
       "user_firstname": "John",
       "user_email": "john@example.com",
       "user_phone": "1234567890",
@@ -109,5 +109,14 @@ Make sure you have Node.js and npm installed on your machine. You can download N
       "user_lastname": "Doe",
       "user_city": "Hyderabad",
       "user_zipcode": "500072"
-}```
+  }
+#### Login
+- URL: https://syoft.dev/Api/userlogin/api/userlogin
+- Method: POST
+- Payload:
+  {
+      "user_email": "john@example.com",
+      "user_password": "password123"
+  }
+
 
