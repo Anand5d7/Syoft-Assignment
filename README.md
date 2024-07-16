@@ -59,4 +59,30 @@ Make sure you have Node.js and npm installed on your machine. You can download N
 
 5. Open your browser and navigate to `http://localhost:3000` to view the app.
 
+## Project Structure
+
+    ```bash
+    react-assignment/
+        │
+        ├── public/
+        │   ├── index.html
+        │   └── ...
+        │
+        ├── src/
+        │   ├── components/
+        │   │   ├── SignUp.js
+        │   │   ├── LogIn.js
+        │   │   ├── Dashboard.js
+        │   │   └── ...
+        │   │
+        │   ├── App.js
+        │   ├── App.css
+        │   ├── index.js
+        │   └── ...
+        │
+        ├── package.json
+        ├── README.md
+        └── ...
+    ```
+
 
