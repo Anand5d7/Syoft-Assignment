@@ -61,7 +61,6 @@ Make sure you have Node.js and npm installed on your machine. You can download N
 
 ## Project Structure
 
-    ```bash
     react-assignment/
         │
         ├── public/
@@ -83,6 +82,5 @@ Make sure you have Node.js and npm installed on your machine. You can download N
         ├── package.json
         ├── README.md
         └── ...
-    ```
 
 
