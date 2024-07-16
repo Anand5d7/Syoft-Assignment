@@ -93,10 +93,13 @@ Make sure you have Node.js and npm installed on your machine. You can download N
 - Navigate to the Log In page.
 - Enter your registered Email and Password.
 - Submit the form to log in.
+  
 #### Dashboard
 - After logging in, you will be redirected to the Dashboard page.
 - The dashboard displays your user information (excluding sensitive details).
+  
 ### API Endpoints
+
 #### Registration
 - URL: https://syoft.dev/Api/user_registeration/api/user_registeration
 - Method: POST
@@ -125,9 +128,12 @@ Make sure you have Node.js and npm installed on your machine. You can download N
 ### Screenshots
 
 You can view screenshots of the application 
-![Syoft-Screenshot-1](https://github.com/user-attachments/assets/a14c35b3-37e8-45af-8796-378ccaddb163)
-![Syoft-Screenshot-2](https://github.com/user-attachments/assets/3c12112c-c72c-47b3-9ce9-7e12b13bfae0)
-![Syoft-Screenshot-3](https://github.com/user-attachments/assets/85229efb-b300-416a-9ed1-6196b24172fe)
+
+![Syoft-Screenshot-1](https://github.com/user-attachments/assets/566a0ecd-f5a7-423b-a4b5-d48460c68c03)
+
+![Syoft-Screenshot-2](https://github.com/user-attachments/assets/e390b35e-dc5a-4dfb-9f69-ee2b2629fa5e)
+
+![Syoft-Screenshot-3](https://github.com/user-attachments/assets/e7bccd3a-1122-4c87-96a2-0706feb84073)
 
 ### Live Demo
 
