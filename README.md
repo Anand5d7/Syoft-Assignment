@@ -59,7 +59,7 @@ Make sure you have Node.js and npm installed on your machine. You can download N
 
 5. Open your browser and navigate to `http://localhost:3000` to view the app.
 
-## Project Structure
+### Project Structure
 
     react-assignment/
         │
@@ -82,5 +82,32 @@ Make sure you have Node.js and npm installed on your machine. You can download N
         ├── package.json
         ├── README.md
         └── ...
+### Usage
 
+#### Sign Up
+- Navigate to the Sign Up page.
+- Fill in the required details (Full Name, Email, Password, Phone).
+- Submit the form to create a new account.
+  
+#### Log In
+- Navigate to the Log In page.
+- Enter your registered Email and Password.
+- Submit the form to log in.
+#### Dashboard
+- After logging in, you will be redirected to the Dashboard page.
+- The dashboard displays your user information (excluding sensitive details).
+### API Endpoints
+#### Registration
+- URL: https://syoft.dev/Api/user_registeration/api/user_registeration
+- Method: POST
+- Payload:
+  ```bash{
+      "user_firstname": "John",
+      "user_email": "john@example.com",
+      "user_phone": "1234567890",
+      "user_password": "password123",
+      "user_lastname": "Doe",
+      "user_city": "Hyderabad",
+      "user_zipcode": "500072"
+}```
 
