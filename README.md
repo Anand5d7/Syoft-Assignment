@@ -122,5 +122,28 @@ Make sure you have Node.js and npm installed on your machine. You can download N
       "user_password": "password123"
   }
   ```
+### License
+This project is licensed under the MIT License.
 
+### Acknowledgments
+- Thanks to the creators of React, Axios, and other libraries used in this project.
+- Thanks to Syoft for providing the API endpoints for user registration and login.
+### Screenshots
+
+You can view screenshots of the application 
+
+![Shopgracias-Weather Dashboard](https://github.com/Anand5d7/Shopgracias-Weather-App/assets/156296146/b398a57a-f760-4bfb-b070-b62f909380b8)
+
+![Shopgracias-Weather Dashboard (2)](https://github.com/Anand5d7/Shopgracias-Weather-App/assets/156296146/8c38bd1b-7efd-4ba2-9ba1-9dd34f9e98a6)
+
+
+### Live Demo
+
+You can view a live demo of the application.
+
+https://github.com/Anand5d7/Shopgracias-Weather-App/assets/156296146/fb75345e-4000-465f-b9ba-40eb9e1c8b2d
+
+## Deployment
+
+For more information on how to deploy your application, refer to the [Create React App deployment documentation](https://facebook.github.io/create-react-app/docs/deployment).
 
